@@ -1,5 +1,7 @@
 # Tokenizer Tool
 
+https://drive.google.com/file/d/1DJ1fL2hCgYZWyWs9MX1m_3OCNtDF7dnO/view?usp=sharing
+
 A simple **web-based tool** for encoding and decoding text using two different tokenizers:  
 **Custom Tokenizer** and **Character Tokenizer**.  
 Built with **HTML**, **Tailwind CSS**, and **JavaScript**, the tool allows users to input text, encode it into tokens, decode tokens back into text, and view vocabulary quality metrics.
